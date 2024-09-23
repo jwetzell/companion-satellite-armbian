@@ -290,4 +290,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Armbian_base
-          path: build/output/images/armbian.img
+          path: build/output/images/armbian.img.gz
